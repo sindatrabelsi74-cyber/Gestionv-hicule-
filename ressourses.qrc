@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/logo.png</file>
+        <file>image/imagetop.png</file>
+        <file>image/imageg.png</file>
+        <file>image/vehicule.png</file>
+        <file>image/tt.png</file>
+        <file>image/nnnn.png</file>
+        <file>image/utelisateur.png</file>
+        <file>image/bord.png</file>
+        <file>image/phone.png</file>
+        <file>image/iconehomme1.1. (3).png</file>
+        <file>image/ve.png</file>
+    </qresource>
+</RCC>
